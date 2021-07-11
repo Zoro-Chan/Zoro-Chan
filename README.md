@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Zoro-Chan
+- 👀 I’m interested in games and simple algorithms
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on Games, and projects using python
+- 📫 How to reach me DM me on discord.
